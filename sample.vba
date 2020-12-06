@@ -1,4 +1,3 @@
-
 ' 引数パスのファイル内容を返却する
 Function ReadFile(path As String)
     Dim buf As String
